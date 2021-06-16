@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Mabel Koh - Portfolio",
+  "name": "Portfolio work in progress",
+  "description": "My portfolio, except it's a work in progress",
   "icons": [
     {
       "src": "favicon.ico",
