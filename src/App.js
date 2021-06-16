@@ -1,22 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  console.log("Graphic design is my passion... not");
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <div>Hi! This is Mabel!</div>
+        <br />
+        <div>No, you're not on the wrong page, this page is getting a revamp and is still a work in progress.</div>
+        <div>In the meantime, to get to know to more about me, head over to <a style={{color: "#E0AFA0"}} href="https://www.linkedin.com/in/mabel-koh-jiaxin/">my LinkedIn profile</a> instead!</div>
       </header>
     </div>
   );
