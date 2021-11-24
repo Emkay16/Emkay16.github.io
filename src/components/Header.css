@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass+Mono');
+
+.header {
+    background-color: #1c2638;
+    position: fixed;
+    top: 0;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Overpass Mono';
+    color: #f14e52;
+}
+
+.logo {
+    font-size: 40px;
+    padding-left: 20px;
+}
+
+.nav-buttons {
+    position: relative;
+    right: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+.buttons {
+    padding: 10px;
+}
